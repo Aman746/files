@@ -1,0 +1,84 @@
+[06-Dec-24 11:35:24 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 11:40:55 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 11:40:55 - INFO] - bot - Bot stopped.
+[06-Dec-24 11:41:06 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 11:44:11 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 11:44:11 - INFO] - bot - Bot stopped.
+[06-Dec-24 11:44:22 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 11:47:54 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 11:47:54 - INFO] - bot - Bot stopped.
+[06-Dec-24 11:48:06 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 11:52:01 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 11:52:02 - INFO] - bot - Bot stopped.
+[06-Dec-24 11:52:14 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 11:55:25 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 11:55:25 - INFO] - bot - Bot stopped.
+[06-Dec-24 11:55:36 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 11:56:24 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 11:56:24 - INFO] - bot - Bot stopped.
+[06-Dec-24 11:56:34 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 11:57:33 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 11:57:33 - INFO] - bot - Bot stopped.
+[06-Dec-24 11:57:44 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 12:01:28 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 12:01:28 - INFO] - bot - Bot stopped.
+[06-Dec-24 12:01:40 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 12:09:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 12:09:43 - INFO] - bot - Bot stopped.
+[06-Dec-24 12:09:54 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 12:33:04 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 12:33:04 - INFO] - bot - Bot stopped.
+[06-Dec-24 12:33:14 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 12:34:48 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 12:34:48 - INFO] - bot - Bot stopped.
+[06-Dec-24 12:34:57 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 12:36:14 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 12:36:14 - INFO] - bot - Bot stopped.
+[06-Dec-24 12:36:27 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 12:37:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 12:37:40 - INFO] - bot - Bot stopped.
+[06-Dec-24 12:38:34 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/ultroid_official
+[06-Dec-24 12:39:20 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Dec-24 12:39:20 - INFO] - bot - Bot stopped.
