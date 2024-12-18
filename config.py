@@ -23,11 +23,11 @@ PORT = os.environ.get("PORT", "8000")
 
 #Database 
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
-DB_URI = "mongodb+srv://awt:awt@cluster0.ltdwktu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_URI = "mongodb+srv://chirag:gttBmyQtfUPxIW7J@cluster0.ck9fb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 #Database 
 # DB_URI = "mongodb+srv://holonef337:EWUvS8XJvyb54X9K@cluster0.suqd9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 #Database 
-DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
+DB_NAME = os.environ.get("DATABASE_NAME", "chirag")
 
 #Shortner (token system) 
 # check my discription to help by using my refer link of shareus.io
