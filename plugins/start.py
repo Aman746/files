@@ -162,7 +162,7 @@ async def start_command(client: Client, message: Message):
                 link = await get_shortlink(SHORTLINK_URL, SHORTLINK_API,f'https://telegram.dog/{client.username}?start=verify_{token}')
                 btn = [
                   [InlineKeyboardButton("🔞Click here to refresh.🔞", url=link)],
-                    [InlineKeyboardButton('♥How to use bot♥', url=TUT_VID)]
+                    [InlineKeyboardButton('How to use bot', url=TUT_VID)]
                 ]
                 await message.reply(f"Your Ads token is expired, refresh your token and try again.", reply_markup=InlineKeyboardMarkup(btn), protect_content=False, quote=True)
                  
